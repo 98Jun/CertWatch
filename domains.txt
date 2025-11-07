@@ -1,0 +1,3 @@
+# 한 줄에 하나 (빈 줄 / # 주석 무시)
+sys.ofu.co.kr
+inven.ofu.co.kr
